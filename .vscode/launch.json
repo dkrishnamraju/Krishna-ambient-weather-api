@@ -9,7 +9,8 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/node_modules\\ambient-weather-api\\examples\\realtime.js"
+            "program": "${workspaceFolder}/node_modules/ambient-weather-api/examples/realtime.js" /*For RapberryPi Commit*/
+            //"program": "${workspaceFolder}/node_modules\\ambient-weather-api\\examples\\realtime.js" /*For Windows*/
             //"program": "${workspaceFolder}/node_modules\\ambient-weather-api\\examples\\CollectAWSData.js"
             //"program": "${workspaceFolder}/node_modules\\ambient-weather-api\\examples\\display-recent-data.js"
         }
