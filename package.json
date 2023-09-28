@@ -25,6 +25,7 @@
     "ambient-weather-api": "^0.0.6",
     "axios": "^1.5.0",
     "moment-timezone": "^0.5.43",
+    "node-cron": "^3.0.2",
     "ramda": "^0.25.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
